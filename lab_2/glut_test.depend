@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1541929343 source:c:\programs\glut_test\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<GL/glut.h>
+
+1541934718 source:c:\programs\ogl_labs\lab_2\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<GL/glut.h>
+	<math.h>
+
