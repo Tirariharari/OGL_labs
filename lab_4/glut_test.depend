@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1544786469 source:c:\programs\ogl_labs\lab_3\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<GL/glaux.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"header.h"
+
+1544786439 c:\programs\ogl_labs\lab_3\header.h
+	<vector>
+
+1544782374 source:c:\programs\ogl_labs\lab_3\funcs.cpp
+	<GL/glaux.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"header.h"
+
+1544782209 c:\programs\ogl_labs\lab_3\funcs.cpp
+	<GL/glaux.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
