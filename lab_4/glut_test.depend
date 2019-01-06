@@ -25,3 +25,16 @@
 	<GL/glu.h>
 	<GL/glut.h>
 
+1546685580 source:c:\programs\ogl_labs\lab_4\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<GL/glaux.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"header.h"
+
+1544786439 c:\programs\ogl_labs\lab_4\header.h
+	<vector>
+
