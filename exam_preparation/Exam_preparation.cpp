@@ -232,7 +232,7 @@ int init_ogl (int argc, char** argv) {
      * void glutTimerFunc(unsigned int millis, void (*func)(int value), int value)
      Реализация таймера. value используется для идентификации таймера, если их несколько
     */
-    /* Обработка нажалий клавиш - void glutKeyboardFunc(void (*func) (unsigned char key, int x, int y)). x и y - позиция курсора на экране,\
+    /* Обработка нажатий клавиш - void glutKeyboardFunc(void (*func) (unsigned char key, int x, int y)). x и y - позиция курсора на экране,\
     key - код нажатой клавиши в кодировке ASCII */
     glutKeyboardFunc(key_pressed);
     // Тест глубины, чтобы задние грани рисовались сзади, а не поверх передних
